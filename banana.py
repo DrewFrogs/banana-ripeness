@@ -1,4 +1,3 @@
-# Reading Car Plate Numbers
 import cv2
 import numpy as np
 from PIL import Image
